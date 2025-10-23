@@ -1,7 +1,7 @@
 # Movie Price Comparison App
 
 A web app that compares movie prices from Cinemaworld and Filmworld providers, showing the cheapest option for each movie.
-(url)http://webjetapitest.azurewebsites.net(/url)
+http://webjetapitest.azurewebsites.net
 
 ## Tech Stack
 - **Backend**: .NET 8 Web API, C#
